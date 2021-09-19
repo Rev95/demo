@@ -6,3 +6,4 @@ This is a simple readme file.
 git status
 git branch
 git checkout -b updates // create new branch command
+emergency fix
